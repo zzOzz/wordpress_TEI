@@ -24,11 +24,18 @@ The TEI XML Display plugin enables the rendering of TEI-encoded XML files direct
 
 ## Installation
 
+~~~
+wp plugin install https://github.com/zzOzz/wordpress_TEI/releases/download/v1.0b/TEI_plugin.zip
+~~~
+
 1. Upload the plugin folder to /wp-content/plugins/tei-xml-display-metadata/
 2. Activate the plugin through the WordPress Plugins screen.
 3. Go to Tools → Upload TEI XML to upload your .xml files.
 
+
+
 ---
+
 
 ## Usage
 
