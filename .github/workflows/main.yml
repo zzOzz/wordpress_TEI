@@ -15,7 +15,7 @@ jobs:
 
       - name: Set plugin slug
         id: vars
-        run: echo "slug=$(basename $GITHUB_REPOSITORY)" >> $GITHUB_OUTPUT
+        run: echo "slug=TEI_plugin" >> $GITHUB_OUTPUT
 
       - name: Create ZIP file
         run: |
